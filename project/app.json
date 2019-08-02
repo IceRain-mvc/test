@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/custom/custom",
+    "pages/custom/itemSetting/itemSetting",
+    "pages/dices/dices",
+    "pages/randomNum/randomNum"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#222",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
